@@ -1,0 +1,13 @@
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\bin\Debug\Bank.exe.config
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\bin\Debug\Bank.exe
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\bin\Debug\Bank.pdb
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.fromBank.resources
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.Forms.frmCustomer.resources
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.Forms.frmRoles.resources
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.Forms.frmWithdrawBySignersSign.resources
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.Forms.frmMainCustomerWithdraw.resources
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.exe
+C:\Users\Emad\Source\Repos\Bank-v.1.0\Bank\obj\Debug\Bank.pdb
